@@ -7,7 +7,9 @@ This application generates detailed user personas from Reddit profiles.
 1. Create virtual environment:
 
 python -m venv venv
+
 source venv/bin/activate  # Linux/Mac
+
 venv\Scripts\activate    # Windows
 
 
